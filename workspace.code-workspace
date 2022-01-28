@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../ocamlstuff"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
